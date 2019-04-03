@@ -1,6 +1,6 @@
-# M5T1
-# Carter
-# 3/28/19
+// M5T1
+// Carter
+// 3/28/19
 
 import java.util.Scanner;
 
